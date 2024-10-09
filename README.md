@@ -1,0 +1,2 @@
+# ollama-workspace
+Ollama Workspace
